@@ -14,7 +14,7 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 ## Who's on your team?
 *List the full names,  email address & Github username of your teammates*
 
-1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
+1. **Immanuel Olaoye**  || ido3cv@umsystem.edu || **n00b110**
 2. 
 3.
 4.
@@ -29,6 +29,8 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 ## What does your app do?
 *Describe in a paragraph or so*
 
+
+Decentralized streaming platform that promotes independent artistry
 <br /><br />
 
 
