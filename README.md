@@ -15,10 +15,11 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 *List the full names,  email address & Github username of your teammates*
 
 1. **Immanuel Olaoye**  || ido3cv@umsystem.edu || **n00b110**
-2. 
-3.
+2. **Caden Smith**      || Caden.a.smith@okstate.edu || cadsmit2aa
+3. 
 4.
 5.
+6.
 
 <br /><br />
 
