@@ -34,9 +34,9 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 
 ## What challenges are you building for? SELECT ALL THAT APPLY
 *See hackmidwest.com/#prizes for challenge details*
-- [ ]  Pinata Web3 Challenge
-- [ ]  Pinata Challenge
-- [ ]  Pinata ERC-6551 Challenge
+- [ x ]  Pinata Web3 Challenge
+- [ x ]  Pinata Challenge
+- [ x ]  Pinata ERC-6551 Challenge
 - [ ]  Okta Challenge
 - [ ]  GEHA Generative AI Emergency Response Challenge
 - [ ]  Corporate Challenge (only for official company teams)
