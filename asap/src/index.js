@@ -1,8 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import App from '/App';
+import {API_SECRET, API_KEY, API_JWT} from 'secrets.js';
 import reportWebVitals from './reportWebVitals';
+
+require('dotenv').config();
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

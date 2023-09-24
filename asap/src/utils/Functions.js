@@ -6,7 +6,7 @@ const { Howl, Howler } = require('howler');
 Howler.autoUnlock = true; // Disable automatic unlocking for audio on some mobile devices
 
 // Define a function to play the sound
-function playSound() {
+export function playSound() {
   // Create a new sound
   const sound = new Howl({
     src: ['path/to/your/audio/file.mp3'], // Replace with the path to your audio file
