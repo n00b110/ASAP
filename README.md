@@ -17,7 +17,7 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 1. **Immanuel Olaoye**  || ido3cv@umsystem.edu || **n00b110**
 2. **Caden Smith**      || Caden.a.smith@okstate.edu || cadsmit2aa
 3. **Ceon Jones**       || cjz86@umsystem.edu || **CeonJones**
-4.
+4. **Payden Brunton**   || paydenmbrunton@gmail.com || *Payden1224*
 5.
 6.
 
